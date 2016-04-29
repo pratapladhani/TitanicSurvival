@@ -18,3 +18,23 @@ C:\Users\pladhani\documents\visual studio 2015\Projects\TitanicSurvivalPredictAP
 C:\Users\pladhani\documents\visual studio 2015\Projects\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\obj\Debug\TitanicSurvivalPredictAPI.dll
 C:\Users\pladhani\documents\visual studio 2015\Projects\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\obj\Debug\TitanicSurvivalPredictAPI.pdb
 C:\Users\pladhani\documents\visual studio 2015\Projects\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\obj\Debug\TitanicSurvivalPredictAPI.csprojResolveAssemblyReference.cache
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\obj\Debug\TitanicSurvivalPredictAPI.dll
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\obj\Debug\TitanicSurvivalPredictAPI.pdb
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\bin\TitanicSurvivalPredictAPI.dll.config
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\bin\TitanicSurvivalPredictAPI.dll
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\bin\TitanicSurvivalPredictAPI.pdb
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\bin\Newtonsoft.Json.dll
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\bin\Swashbuckle.Core.dll
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\bin\System.Net.Http.Formatting.dll
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\bin\System.Web.Http.dll
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\bin\System.Web.Http.WebHost.dll
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\bin\WebActivatorEx.dll
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\bin\Newtonsoft.Json.xml
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\bin\System.Net.Http.Formatting.xml
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\bin\System.Web.Http.xml
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\bin\System.Web.Http.WebHost.xml
+D:\Code\Repos\TitanicSurvival\TitanicSurvivalPredictAPI\TitanicSurvivalPredictAPI\obj\Debug\TitanicSurvivalPredictAPI.csprojResolveAssemblyReference.cache

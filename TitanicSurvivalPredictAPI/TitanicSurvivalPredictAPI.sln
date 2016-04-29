@@ -7,6 +7,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitanicSurvivalPredictAPI",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTitanicPrediction", "ConsoleTitanicPrediction\ConsoleTitanicPrediction.csproj", "{76934610-CB54-4C82-93B0-5804585C7183}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project Files", "Project Files", "{18DF5573-DA7E-4A27-BE77-E87249801734}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\SampleApps\TitanicSurvival\death-icon.gif = ..\..\..\SampleApps\TitanicSurvival\death-icon.gif
+		..\..\..\SampleApps\TitanicSurvival\icon_life.png = ..\..\..\SampleApps\TitanicSurvival\icon_life.png
+		..\..\..\SampleApps\TitanicSurvival\ship-icon.png = ..\..\..\SampleApps\TitanicSurvival\ship-icon.png
+		..\..\..\SampleApps\TitanicSurvival\TitanicSurvival.msapp = ..\..\..\SampleApps\TitanicSurvival\TitanicSurvival.msapp
+		..\..\..\SampleApps\TitanicSurvival\TitanicSurvivalPredictionv1.json = ..\..\..\SampleApps\TitanicSurvival\TitanicSurvivalPredictionv1.json
+		..\..\..\SampleApps\TitanicSurvival\TitanicSurvivalPredictionv2.json = ..\..\..\SampleApps\TitanicSurvival\TitanicSurvivalPredictionv2.json
+		..\..\..\SampleApps\TitanicSurvival\TitanicSurvivalPredictionv3.json = ..\..\..\SampleApps\TitanicSurvival\TitanicSurvivalPredictionv3.json
+		..\..\..\SampleApps\TitanicSurvival\TitanicSurvivalPredictionv4.json = ..\..\..\SampleApps\TitanicSurvival\TitanicSurvivalPredictionv4.json
+		..\..\..\SampleApps\TitanicSurvival\TitanicSurvivalPredictionv5.json = ..\..\..\SampleApps\TitanicSurvival\TitanicSurvivalPredictionv5.json
+		..\..\..\SampleApps\TitanicSurvival\TitanicSurvivalv2.msapp = ..\..\..\SampleApps\TitanicSurvival\TitanicSurvivalv2.msapp
+		..\..\..\SampleApps\TitanicSurvival\TitanicSurvivalv3.msapp = ..\..\..\SampleApps\TitanicSurvival\TitanicSurvivalv3.msapp
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

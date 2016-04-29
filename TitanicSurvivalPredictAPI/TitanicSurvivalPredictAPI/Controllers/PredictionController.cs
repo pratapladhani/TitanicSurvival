@@ -3,6 +3,7 @@ using Newtonsoft.Json.Linq;
 using Swashbuckle.Swagger.Annotations;
 using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
@@ -95,10 +96,11 @@ namespace TitanicSurvivalPredictAPI.Controllers
                     {
                     }
                 };
-                const string apiKey = "CRBQ+DAzdrTLKltqKprAAIf5E60jarfCah1fdP25lK/aMmLGbKBV6rihlJzL/IvxML/M1nEDcmjsWDVBK+ucBQ=="; // Replace this with the API key for the web service
+                string apiKey = ConfigurationManager.AppSettings["TitanicAPIKey"];// Replace this with the API key for the web service
                 client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", apiKey);
 
-                client.BaseAddress = new Uri("https://ussouthcentral.services.azureml.net/workspaces/21c8cb7960ca4fbb8584012370c65427/services/2b26e2941a1c4cc0bcd7bba3fcafc0e4/execute?api-version=2.0&details=true");
+                string baseAddress = ConfigurationManager.AppSettings["AzureMLAPIBaseAddress"];
+                client.BaseAddress = new Uri(baseAddress);
 
                 HttpResponseMessage response = await client.PostAsJsonAsync("", scoreRequest);
                 bool willSurvive = false;
